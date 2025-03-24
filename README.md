@@ -1,29 +1,57 @@
-# calculator-vuejs
+# Arithmetic Calculator
 
-This template should help get you started developing with Vue 3 in Vite.
+A arithmetic calculator built with VueJS that performs mathematical operations such as addition, subtraction, multiplication and division. This project demonstrates how to create a responsive and interactive calculator with VueJS components and Vue's reactivity system.
 
-## Recommended IDE Setup
+- You can visit the live site here: https://calculator-vuejs-snowy.vercel.app/
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+![image](https://github.com/user-attachments/assets/d5303b41-53e5-4e1f-9d77-3379b0fca3d5)
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vite.dev/config/).
 
-## Project Setup
 
-```sh
-npm install
-```
+## Technologies Used
 
-### Compile and Hot-Reload for Development
+- **Vue.js**: For building user interface and component.
+- **HTML5**: For structuring the content.
+- **CSS3**: For styling the application.
+- **Bootstrap**: For responsive design and basic UI components.
+- **JavaScript (Vue Composition API)**: For handling logic and state management.
 
-```sh
-npm run dev
-```
+## Features
 
-### Compile and Minify for Production
+- Perform arithmetic operations: addition, subtraction, multiplication and division.
+- Dynamic result display.
+- Simple, clean, and responsive UI.
 
-```sh
-npm run build
-```
+## Components
+
+- **App.vue**: The main application file that imports and uses the `Calculator` component.
+- **Calculator.vue**: A functional component containing the logic and UI for the calculator.
+
+## Installation
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/deborasete/calculator-vuejs.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd calculator-vuejs
+    ```
+
+3. Install dependencies:
+    ```bash
+    npm install
+    ```
+
+4. Run the development server:
+    ```bash
+    npm run dev
+    ```
+
+## Developed by:  
+
+
+- LinkedIn: [Debora Sete](https://www.linkedin.com/in/debora-sete/)
+- Email: [sete.debora@gmail.com](mailto:sete.debora@gmail.com)
